@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://img.freepik.com/free-vector/neon-megapolis-river-with-yachts_1441-2820.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+}
+
+nav{
+    border: solid black;
+    
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    background-color: black;
+
+}
+
+nav ul h1{
+    font-size: 40px;
+}
+
+
+nav ul li{
+    
+    list-style: none;
+    margin: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+nav ul button{
+    color: white;
+    background-color: blueviolet;
+    padding: 5px 20px;
+    font-weight: 700;
+    border: none;
+    border-radius: 10px;
+    margin-left: 40%;
+}
+
+div h1{
+    font-size: 70px;
+    width: 80%;
+    align-items: center;
+    padding-left: 30%;
+    padding-top: 10%;
+    font-weight: 700;
+    color: white;
+}
+
+div p{
+    font-size: 25px;
+    margin-left: 33%;
+    margin-top: 5px;
+    font-weight: 700;
+    color: white;
+
+}
+
+div button{
+    padding: 15px 30px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: blueviolet;
+    margin-left: 40%;
+    margin-top: 35px;
+    border: none;
+    border-radius: 10px;
+}
