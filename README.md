@@ -1,5 +1,5 @@
 # project5
-simple web page.
+simple web page. using HTML&CSS
 
 
 #output
